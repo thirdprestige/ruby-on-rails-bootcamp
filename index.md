@@ -37,10 +37,25 @@ title: Ruby on Rails Bootcamp
 ## Core Ruby
 
 * [Ruby Integers](http://www.ruby-doc.org/core-2.0.0/Integer.html)
-* [Ruby Strings](http://ruby-doc.org/core-2.0.0/String.html)
-* [Ruby Arrays](http://www.ruby-doc.org/core-2.0.0/Array.html)
+* [Ruby Strings](https://thenewcircle.com/bookshelf/ruby_tutorial/strings.html) ([Documentation](http://ruby-doc.org/core-2.0.0/String.html))
 * [String Interpolation](https://thenewcircle.com/bookshelf/ruby_tutorial/strings.html)
+* [Ruby Arrays](https://thenewcircle.com/bookshelf/ruby_tutorial/arrays.html) ([Documentation](http://www.ruby-doc.org/core-2.0.0/Array.html))
 * [Exercise](/core/exercise.html)
+* [Ruby Hashes (objects)](https://thenewcircle.com/bookshelf/ruby_tutorial/hashes.html) ([Documentation](http://www.ruby-doc.org/core-2.0.0/Hash.html))
+* [Control Flow](https://thenewcircle.com/bookshelf/ruby_tutorial/control.html) 
+
+## More Tools
+
+* [GitHub for Mac](http://mac.github.com/)
+* [GitHub for Windows](http://windows.github.com/)
+
+
+## Homework
+
+* Install Ruby
+* [Install Rubygems](https://rubygems.org/pages/download)
+* [Install Git](https://help.github.com/articles/set-up-git)
+* Or, [Install Git from GitHub for Mac](https://github.com/blog/1510-installing-git-from-github-for-mac)
 
 ## Learning Ruby
 
