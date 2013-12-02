@@ -24,7 +24,7 @@ title: Ruby on Rails Bootcamp
 ## Dependency Management
 
 * [Bundler](http://bundler.io/)
-* [Homebrew for OS X](http://brew.sh/)
+* [Homebrew for OS X](http://brew.sh)
 
 ## Code Editors
 
@@ -85,10 +85,10 @@ Definitely check out _Refactoring: Ruby Edition_, if it's the only one in the li
 <!-- * [Understanding association proxy objects](/models/proxies.html) -->
 * [Working with eager loading](/models/understanding-eager-loading.html)
 * [Scoping](/models/scoping.html)
-<!-- * [Using association callbacks](/models/association-callbacks.html)
-* [Adding association extensions](/models/association-extensions.html)
-* [Single-Table-Inheritance (STI)](/models/sti.html)
- -->
+<!-- * [Using association callbacks](/models/association-callbacks.html) -->
+<!-- * [Adding association extensions](/models/association-extensions.html) -->
+<!-- * [Single-Table-Inheritance (STI)](/models/sti.html) -->
+
 ## Scalability & Caching
 
 * [Performance Profiling](/scaling/performance-profiling.html)
