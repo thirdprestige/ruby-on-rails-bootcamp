@@ -1,13 +1,18 @@
 ---
 layout: default
-title: Advanced Ruby on Rails
+title: Ruby on Rails Bootcamp
 ---
 
-# Advanced Ruby on Rails
+# Ruby on Rails Bootcamp
 
-## Example Project
+> “when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.” &mdash;Why The Lucky Stiff
 
-```git clone git@github.com:thirdprestige/advanced-rails-example.git```
+## Meta
+
+* [The Programmer, like the poet...](/meta/poet.html)
+* [Nobody tells this to people who are beginners...](/meta/beginners.html)
+* [Online Registration](http://crcl.to/bdbmilg)
+
 
 ## RSpec and Cucumber
 
