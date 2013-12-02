@@ -42,7 +42,8 @@ title: Ruby on Rails Bootcamp
 * [Ruby Arrays](https://thenewcircle.com/bookshelf/ruby_tutorial/arrays.html) ([Documentation](http://www.ruby-doc.org/core-2.0.0/Array.html))
 * [Exercise](/core/exercise.html)
 * [Ruby Hashes (objects)](https://thenewcircle.com/bookshelf/ruby_tutorial/hashes.html) ([Documentation](http://www.ruby-doc.org/core-2.0.0/Hash.html))
-* [Control Flow](https://thenewcircle.com/bookshelf/ruby_tutorial/control.html) 
+* [Control Flow](https://thenewcircle.com/bookshelf/ruby_tutorial/control.html)* [Classes &amp; Instances](https://thenewcircle.com/bookshelf/ruby_tutorial/classes.html) 
+* [Exercise II](/core/exercise-2.html)
 
 ## More Tools
 
