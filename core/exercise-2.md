@@ -33,21 +33,19 @@ Amanda Jones, 48
 
 ## Documentation
 
-Time: http://www.ruby-doc.org/core-2.0.0/Time.html
-Net::HTTP http://ruby-doc.org/stdlib-2.0.0/libdoc/net/http/rdoc/Net/HTTP.html
-CSV: http://ruby-doc.org/stdlib-1.9.2/libdoc/csv/rdoc/CSV.html
+* [Time](http://www.ruby-doc.org/core-2.0.0/Time.html)
+* [Net::HTTP](http://ruby-doc.org/stdlib-2.0.0/libdoc/net/http/rdoc/Net/HTTP.html)
+* [CSV](http://ruby-doc.org/stdlib-1.9.2/libdoc/csv/rdoc/CSV.html)
 
 
 
 ## First Extension
 
-Use the Prawn gem to create a PDF report.
-
-http://prawn.majesticseacreature.com/manual.pdf
+Use the [Prawn](http://prawn.majesticseacreature.com/manual.pdf) gem to create a PDF report.
 
 
 ## Second Extension
 
-Automatically deliver the PDF via email to nj+report@third.io
+Automatically deliver the PDF via email to nj+report@third.io.  See the [mail](https://github.com/mikel/mail) gem
 
 
