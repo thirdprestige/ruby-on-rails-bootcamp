@@ -39,11 +39,11 @@ title: Ruby on Rails Bootcamp
 ## Writing maintainable code
 
 * [Skinny Controller, Fat Model](/refactoring/skinny-controller-fat-model.html)
-* [Presenters](/refactoring/presenters.html)
+<!-- * [Presenters](/refactoring/presenters.html) -->
 <!-- * [Interactors](/refactoring/interactors.html) -->
-* [Command Pattern](/refactoring/commands.html)
+<!-- * [Command Pattern](/refactoring/commands.html) -->
 * [Concerns](/refactoring/concerns.html)
-* Refactoring in the Real World
+<!-- * Refactoring in the Real World -->
 
 ## More resources on Maintainable Code
 
@@ -52,9 +52,9 @@ Definitely check out _Refactoring: Ruby Edition_, if it's the only one in the li
 * [Refactoring: Ruby Edition](http://www.amazon.com/Refactoring-Ruby-Jay-Fields/dp/0321603508/ref=sr_1_1?s=books&ie=UTF8&qid=1382519003&sr=1-1&keywords=refactoring+ruby+edition)
 * [Clarity over Brevity in variable and method names, by DHH](https://37signals.com/svn/posts/3250-clarity-over-brevity-in-variable-and-method-names)
 * [Put chubby models on a diet with concerns, by DHH](https://37signals.com/svn/posts/3372-put-chubby-models-on-a-diet-with-concerns)
-* [Pattern vision, by DHH](https://37signals.com/svn/posts/3341-pattern-vision)
-* [Code Climate, Automated Ruby Code Review](https://codeclimate.com/)
-* [Imperator gem, for the Command pattern, by Keith Gaddis](https://github.com/karmajunkie/imperator)
+<!-- * [Pattern vision, by DHH](https://37signals.com/svn/posts/3341-pattern-vision) -->
+<!-- * [Code Climate, Automated Ruby Code Review](https://codeclimate.com/) -->
+<!-- * [Imperator gem, for the Command pattern, by Keith Gaddis](https://github.com/karmajunkie/imperator) -->
 
 ## Advanced model & association features
 
