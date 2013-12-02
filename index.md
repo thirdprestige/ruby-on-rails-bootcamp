@@ -20,6 +20,8 @@ title: Ruby on Rails Bootcamp
 * [RubyInstaller.org for Windows](http://rubyinstaller.org)
 * Debian/Ubuntu: `sudo apt-get install ruby`
 * [More download &amp; installation options](https://www.ruby-lang.org/en/downloads/)
+* [TryRuby.org](http://tryruby.org)
+* Ruby Console: `irb`
 
 ## Dependency Management
 
@@ -31,6 +33,14 @@ title: Ruby on Rails Bootcamp
 * [Sublime Text](http://www.sublimetext.com/2)
 * [TextMate](http://macromates.com/)
 * [RubyMine IDE](http://www.jetbrains.com/ruby/)
+
+## Core Ruby
+
+* [Ruby Integers](http://www.ruby-doc.org/core-2.0.0/Integer.html)
+* [Ruby Strings](http://ruby-doc.org/core-2.0.0/String.html)
+* [Ruby Arrays](http://www.ruby-doc.org/core-2.0.0/Array.html)
+* [String Interpolation](https://thenewcircle.com/bookshelf/ruby_tutorial/strings.html)
+* [Exercise](/core/exercise.html)
 
 ## Learning Ruby
 
@@ -46,7 +56,6 @@ title: Ruby on Rails Bootcamp
 * [RSpec for controllers](/rspec/controllers.html)
 * [RSpec for views](/rspec/views.html)
 * [RSpec for helpers](/rspec/helpers.html)
-<!-- * [RSpec for `lib/`](/rspec/libs.html) -->
 * [Mocks](/rspec/mocks.html)
 * [Writing Cucumber tests](/rspec/tests.html)
 * [Debugging Cucumber with Launchy](/rspec/debugging-cucumber.html)
@@ -63,11 +72,7 @@ title: Ruby on Rails Bootcamp
 ## Writing maintainable code
 
 * [Skinny Controller, Fat Model](/refactoring/skinny-controller-fat-model.html)
-<!-- * [Presenters](/refactoring/presenters.html) -->
-<!-- * [Interactors](/refactoring/interactors.html) -->
-<!-- * [Command Pattern](/refactoring/commands.html) -->
 * [Concerns](/refactoring/concerns.html)
-<!-- * Refactoring in the Real World -->
 
 ## More resources on Maintainable Code
 
@@ -76,18 +81,12 @@ Definitely check out _Refactoring: Ruby Edition_, if it's the only one in the li
 * [Refactoring: Ruby Edition](http://www.amazon.com/Refactoring-Ruby-Jay-Fields/dp/0321603508/ref=sr_1_1?s=books&ie=UTF8&qid=1382519003&sr=1-1&keywords=refactoring+ruby+edition)
 * [Clarity over Brevity in variable and method names, by DHH](https://37signals.com/svn/posts/3250-clarity-over-brevity-in-variable-and-method-names)
 * [Put chubby models on a diet with concerns, by DHH](https://37signals.com/svn/posts/3372-put-chubby-models-on-a-diet-with-concerns)
-<!-- * [Pattern vision, by DHH](https://37signals.com/svn/posts/3341-pattern-vision) -->
-<!-- * [Code Climate, Automated Ruby Code Review](https://codeclimate.com/) -->
-<!-- * [Imperator gem, for the Command pattern, by Keith Gaddis](https://github.com/karmajunkie/imperator) -->
 
 ## Advanced model & association features
 
-<!-- * [Understanding association proxy objects](/models/proxies.html) -->
 * [Working with eager loading](/models/understanding-eager-loading.html)
 * [Scoping](/models/scoping.html)
-<!-- * [Using association callbacks](/models/association-callbacks.html) -->
-<!-- * [Adding association extensions](/models/association-extensions.html) -->
-<!-- * [Single-Table-Inheritance (STI)](/models/sti.html) -->
+
 
 ## Scalability & Caching
 
@@ -134,15 +133,9 @@ Definitely check out _Refactoring: Ruby Edition_, if it's the only one in the li
 
 * [Active Support Core Extensions](http://edgeguides.rubyonrails.org/active_support_core_extensions.html)
 * [Configuring Rails Applications](http://edgeguides.rubyonrails.org/configuring.html)
-<!-- * [Zero-Downtime Deploys for Rails](http://www.slideshare.net/pedrobelo/zero-downtime-deploys-for-rails-apps)
- -->
+
+
 ## Generators
 
 * [Creating and Customizing Rails Generators &amp; Templates](http://edgeguides.rubyonrails.org/generators.html)
 * [Generate a JavaScript File in Rails](https://gist.github.com/nthj/7161156)
-
-<!-- ## Engines &amp; Gems
-
-* [Blorghety gem](https://rubygems.org/gems/blorghety)
-* [Getting Started with Rails Engines](http://edgeguides.rubyonrails.org/engines.html)
- -->
