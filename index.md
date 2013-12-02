@@ -12,7 +12,31 @@ title: Ruby on Rails Bootcamp
 * [The Programmer, like the poet...](/meta/poet.html)
 * [Nobody tells this to people who are beginners...](/meta/beginners.html)
 * [Online Registration](http://crcl.to/bdbmilg)
+* [Compiling!](http://xkxcd.com/303/)
 
+
+## Ruby Installation
+
+* [RubyInstaller.org for Windows](http://rubyinstaller.org)
+* Debian/Ubuntu: `sudo apt-get install ruby`
+* [More download &amp; installation options](https://www.ruby-lang.org/en/downloads/)
+
+## Dependency Management
+
+* [Bundler](http://bundler.io/)
+* [Homebrew for OS X](http://brew.sh/)
+
+## Code Editors
+
+* [Sublime Text](http://www.sublimetext.com/2)
+* [TextMate](http://macromates.com/)
+* [RubyMine IDE](http://www.jetbrains.com/ruby/)
+
+## Learning Ruby
+
+* [Why’s (Poignant) Guide to Ruby]( http://mislav.uniqpath.com/poignant-guide/)
+* [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/)
+* [RubyMonk ](http://rubymonk.com/)
 
 ## RSpec and Cucumber
 
@@ -58,13 +82,13 @@ Definitely check out _Refactoring: Ruby Edition_, if it's the only one in the li
 
 ## Advanced model & association features
 
-* [Understanding association proxy objects](/models/proxies.html)
+<!-- * [Understanding association proxy objects](/models/proxies.html) -->
 * [Working with eager loading](/models/understanding-eager-loading.html)
 * [Scoping](/models/scoping.html)
-* [Using association callbacks](/models/association-callbacks.html)
+<!-- * [Using association callbacks](/models/association-callbacks.html)
 * [Adding association extensions](/models/association-extensions.html)
 * [Single-Table-Inheritance (STI)](/models/sti.html)
-
+ -->
 ## Scalability & Caching
 
 * [Performance Profiling](/scaling/performance-profiling.html)
@@ -110,14 +134,15 @@ Definitely check out _Refactoring: Ruby Edition_, if it's the only one in the li
 
 * [Active Support Core Extensions](http://edgeguides.rubyonrails.org/active_support_core_extensions.html)
 * [Configuring Rails Applications](http://edgeguides.rubyonrails.org/configuring.html)
-* [Zero-Downtime Deploys for Rails](http://www.slideshare.net/pedrobelo/zero-downtime-deploys-for-rails-apps)
-
+<!-- * [Zero-Downtime Deploys for Rails](http://www.slideshare.net/pedrobelo/zero-downtime-deploys-for-rails-apps)
+ -->
 ## Generators
 
 * [Creating and Customizing Rails Generators &amp; Templates](http://edgeguides.rubyonrails.org/generators.html)
 * [Generate a JavaScript File in Rails](https://gist.github.com/nthj/7161156)
 
-## Engines &amp; Gems
+<!-- ## Engines &amp; Gems
 
 * [Blorghety gem](https://rubygems.org/gems/blorghety)
 * [Getting Started with Rails Engines](http://edgeguides.rubyonrails.org/engines.html)
+ -->
