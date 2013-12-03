@@ -42,7 +42,8 @@ title: Ruby on Rails Bootcamp
 * [Ruby Arrays](https://thenewcircle.com/bookshelf/ruby_tutorial/arrays.html) ([Documentation](http://www.ruby-doc.org/core-2.0.0/Array.html))
 * [Exercise](/core/exercise.html)
 * [Ruby Hashes (objects)](https://thenewcircle.com/bookshelf/ruby_tutorial/hashes.html) ([Documentation](http://www.ruby-doc.org/core-2.0.0/Hash.html))
-* [Control Flow](https://thenewcircle.com/bookshelf/ruby_tutorial/control.html)* [Classes &amp; Instances](https://thenewcircle.com/bookshelf/ruby_tutorial/classes.html) 
+* [Ruby Functions (Methods)](https://thenewcircle.com/bookshelf/ruby_tutorial/functions.html)
+* [Control Flow](https://thenewcircle.com/bookshelf/ruby_tutorial/control.html)* [Classes & Instances](https://thenewcircle.com/bookshelf/ruby_tutorial/classes.html) 
 * [Exercise II](/core/exercise-2.html)
 
 ## More Tools
@@ -58,11 +59,18 @@ title: Ruby on Rails Bootcamp
 * [Install Git](https://help.github.com/articles/set-up-git)
 * Or, [Install Git from GitHub for Mac](https://github.com/blog/1510-installing-git-from-github-for-mac)
 
+
 ## Learning Ruby
 
 * [Why’s (Poignant) Guide to Ruby]( http://mislav.uniqpath.com/poignant-guide/)
 * [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/)
 * [RubyMonk ](http://rubymonk.com/)
+
+
+## Toolbox
+* [Try Git in your browser](http://try.github.io/levels/1/challenges/1)
+* [Git Cheat Sheet](https://help.github.com/articles/git-cheatsheet)
+* [RubyGems.org](http://rubygems.org)
 
 ## RSpec and Cucumber
 
