@@ -40,6 +40,11 @@ Your output may be something like:
 
 
 
+## Solution
+
+[Roomful of People](https://gist.github.com/nthj/7777860)
+
+
 
 
 
