@@ -7,6 +7,10 @@ title: Ruby on Rails Bootcamp
 
 > “when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.” &mdash;Why The Lucky Stiff
 
+## JOIN.ME
+
+**[Visit this link](https://join.me/240-488-844)**
+
 ## Meta
 
 * [The Programmer, like the poet...](/meta/poet.html)
