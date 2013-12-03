@@ -9,7 +9,8 @@ title: Ruby on Rails Bootcamp
 
 ## JOIN.ME
 
-**[Visit this link](https://join.me/580-124-607)**
+**[Visit this](https://join.me/580-124-607)**
+
 
 ## Meta
 
