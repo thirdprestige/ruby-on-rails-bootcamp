@@ -50,6 +50,7 @@ title: Ruby on Rails Bootcamp
 * [Ruby Functions (Methods)](https://thenewcircle.com/bookshelf/ruby_tutorial/functions.html)
 * [Control Flow](https://thenewcircle.com/bookshelf/ruby_tutorial/control.html)* [Classes & Instances](https://thenewcircle.com/bookshelf/ruby_tutorial/classes.html) 
 * [Exercise II](/core/exercise-2.html)
+* [Class Vs Instance Examples](https://gist.github.com/nthj/7792072)
 
 ## More Tools
 
