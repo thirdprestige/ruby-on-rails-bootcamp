@@ -41,12 +41,15 @@ title: Ruby on Rails Bootcamp
 * [Ruby Strings](https://thenewcircle.com/bookshelf/ruby_tutorial/strings.html) ([Documentation](http://ruby-doc.org/core-2.0.0/String.html))
 * [String Interpolation](https://thenewcircle.com/bookshelf/ruby_tutorial/strings.html)
 * [Ruby Arrays](https://thenewcircle.com/bookshelf/ruby_tutorial/arrays.html) ([Documentation](http://www.ruby-doc.org/core-2.0.0/Array.html))
-* [Exercise](/core/exercise.html)
 * [Ruby Hashes (objects)](https://thenewcircle.com/bookshelf/ruby_tutorial/hashes.html) ([Documentation](http://www.ruby-doc.org/core-2.0.0/Hash.html))
 * [Ruby Functions (Methods)](https://thenewcircle.com/bookshelf/ruby_tutorial/functions.html)
 * [Control Flow](https://thenewcircle.com/bookshelf/ruby_tutorial/control.html)* [Classes & Instances](https://thenewcircle.com/bookshelf/ruby_tutorial/classes.html) 
-* [Exercise II](/core/exercise-2.html)
 * [Class Vs Instance Examples](https://gist.github.com/nthj/7792072)
+
+## Exercises 
+
+* [Exercise](https://gist.github.com/nthj/787535)
+* [Exercise II](https://gist.github.com/nthj/7875541)
 
 ## More Tools
 
